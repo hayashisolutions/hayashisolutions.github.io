@@ -1,0 +1,9 @@
+https://learn.shayhowe.com/html-css/getting-to-know-html/
+
+Semantic tags https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Icons (Files Menu Icon, Clock Icon) https://www.w3schools.com/icons/
+
+Non-Copyrighted Images https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit?pli=1&tab=t.0
+
+When to Use Alt Text https://www.w3.org/WAI/tutorials/images/decision-tree/
